@@ -1,0 +1,5 @@
+.mainContent {height:95vh; padding-left: 13.5%;}
+
+@media all and (max-width: 992px) {
+	.mainContent {padding-left: 0px;}
+}
